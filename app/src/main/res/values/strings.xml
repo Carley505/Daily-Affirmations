@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Daily Affirmations</string>
+    <string name="txt_1">You are more capable than you give yourself credit for.</string>
+    <string name="txt_2">Every small step forward still counts as progress.</string>
+    <string name="txt_3">You bring something unique to the world that no one else can.</string>
+    <string name="txt_4">Its okay to take things one day at a time.</string>
+    <string name="txt_5">Your effort today is building a better tomorrow.</string>
+    <string name="txt_6">You are allowed to be proud of how far you have come.</string>
+    <string name="txt_7">Challenges are just opportunities in disguise.</string>
+    <string name="txt_8">You deserve kindness — especially from yourself.</string>
+    <string name="txt_9">Growth happens even when you cannot see it yet.</string>
+    <string name="txt_10">You have overcome hard things before, and you can do it again.</string>
+</resources>
